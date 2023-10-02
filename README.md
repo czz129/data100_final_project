@@ -1,8 +1,8 @@
 # data100_final_project
 # Traffic-EDA
 ## Reports
-* [Design Doc (Part I)](https://docs.google.com/document/d/1_goOmiBKfH8qpB0h7EkqaPqAd8jukFG35NNaIR4SqSY/edit?copiedFromTrash)
-* [Modeling Report (Part II)](https://docs.google.com/document/d/1BPvwQwFGCWWzdQdfVfUqXFvUwYtcMP0p6PEMfOgeP9s/edit)
+* [Design Doc (Part I)](https://github.com/czz129/data100_final_project/blob/main/DATA_100_Final_Project__Traffic__Design_Doc.pdf)
+* [Modeling Report (Part II)](https://github.com/czz129/data100_final_project/blob/main/DATA_100_Final_Project__Traffic__Open-Ended_Modeling_Report.pdf)
 
 ## Resources
 * [OH spreadsheet](https://docs.google.com/spreadsheets/d/1GNjqyQf9h92BSQNSVN8THfz4-NlP8rZxjYrtxuu_Xqk/edit#gid=0)
