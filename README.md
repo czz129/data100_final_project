@@ -5,7 +5,6 @@
 * [Modeling Report (Part II)](https://github.com/czz129/data100_final_project/blob/main/DATA_100_Final_Project__Traffic__Open-Ended_Modeling_Report.pdf)
 
 ## Resources
-* [OH spreadsheet](https://docs.google.com/spreadsheets/d/1GNjqyQf9h92BSQNSVN8THfz4-NlP8rZxjYrtxuu_Xqk/edit#gid=0)
 * [FinalProject_Part1_spec.pdf](https://github.com/JerryPan2718/Traffic-EDA/files/7694857/FinalProject_Part1_spec.pdf)
 * [FinalProject_Part2_spec.pdf](https://github.com/JerryPan2718/Traffic-EDA/files/7694855/FinalProject_Part2_spec.pdf)
 
