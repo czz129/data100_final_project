@@ -1,4 +1,4 @@
-# data100_final_project
+# data100_final_project -- Bay Area Traffic Patterns: Analyzing the Impact of COVID-19 on Urban Mobility
 # Project description
 This project investigates the effect of COVID-19 on travel times in the Bay Area, comparing variations between weekdays and weekends before and after the lockdown, using visual data analysis methods to uncover changes in traffic patterns and providing insights into the pandemic's impact on urban mobility. It focused on analyzing the impact of COVID-19 on travel times within the Bay Area, exploring variations in travel time between weekdays and weekends before and after the lockdown. The project utilized histograms and heatmaps for visual comparisons and also examined areas with significant changes in travel patterns due to the lockdown. The hypothesis was that travel time differences between weekdays and weekends decreased after the lockdown, and overall travel times were reduced both on weekdays and weekends. The aim was to understand how COVID-19 affected San Francisco's transportation and to what extent it influenced people's traffic speed and time.
 
